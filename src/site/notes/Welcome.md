@@ -6,6 +6,7 @@ This is testing PDF Extension for Digital Garden:
 
 - Previewing PDF: ( classical obsidian format "! \[ \[  ] ]" )
 
+
 <iframe src="/img/user/LA_Review.pdf" width="100%" height="600px" title="LA_Review.pdf" style="border:1px solid #ccc;"></iframe>
 
 - Preview using standard markdown: (" ! \[]()")
